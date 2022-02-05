@@ -1,0 +1,1 @@
+Mandelbrot set generation in Python
